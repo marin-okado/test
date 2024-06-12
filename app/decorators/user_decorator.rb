@@ -4,7 +4,7 @@ class UserDecorator < Draper::Decorator
   def full_name
     "#{object.last_name} #{object.first_name}"
   end
-
+end
 
   # Define presentation-specific methods here. Helpers are accessed through
   # `helpers` (aka `h`). You can override attributes, for example:
@@ -15,4 +15,3 @@ class UserDecorator < Draper::Decorator
   #     end
   #   end
 
-end
