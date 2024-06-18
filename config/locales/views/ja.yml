@@ -28,6 +28,14 @@ ja:
     profile: プロフィール
     edit:
       title: 掲示板編集
+    bookmarks:
+      title: ブックマーク一覧
+      no_result: ブックマーク中の掲示板がありません。
+  bookmarks:
+    create:
+      success: ブックマークしました
+    destroy:
+      success: ブックマークを外しました
   user_sessions:
     new:
       title: ログイン
