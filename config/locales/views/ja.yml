@@ -26,11 +26,6 @@ ja:
     create_board: 掲示板作成
     bookmark_index: ブックマーク一覧
     profile: プロフィール
-    edit:
-      title: 掲示板編集
-    bookmarks:
-      title: ブックマーク一覧
-      no_result: ブックマーク中の掲示板がありません。
   bookmarks:
     create:
       success: ブックマークしました
@@ -61,3 +56,8 @@ ja:
       title: 掲示板詳細
     index:
       title: 掲示板一覧
+    edit:
+      title: 掲示板編集
+    bookmarks:
+      title: ブックマーク一覧
+      no_result: ブックマーク中の掲示板がありません。
