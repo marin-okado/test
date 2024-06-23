@@ -3,6 +3,7 @@ ja:
     create: 作成
     post: 投稿
     search_word: 検索ワード
+    edit: 編集
     delete_confirm: 削除しますか？
     flash_message:
       created: "%{item}を作成しました"
@@ -57,3 +58,8 @@ ja:
     bookmarks:
       title: ブックマーク一覧
       no_result: ブックマーク中の掲示板がありません。
+  profiles:
+    show:
+      title: プロフィール
+    edit:
+      title: プロフィール編集
