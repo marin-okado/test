@@ -12,7 +12,7 @@ Rails.application.routes.draw do
     end  
   end
   resources :bookmarks, only: %i[create destroy]
-  resource :profiles, only: %i[show edit update]
+  resource :profile, only: %i[show edit update]
 
   get 'login', to: 'user_sessions#new'
   post 'login', to: 'user_sessions#create'
